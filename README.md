@@ -13,9 +13,13 @@ This prototype explores forms of communication via embodied technology. Like any
 
 
 ## Materials Used
-- [Photon WiFi Development Board](https://store.particle.io/products/photon)
-- [Vibrating Mini Motor Disc](https://www.adafruit.com/product/1201)
-- [Short Flex Sensor](https://www.adafruit.com/product/1070)
+- [Photon WiFi Development Boards](https://store.particle.io/products/photon)
+- [Vibrating Mini Motor Discs](https://www.adafruit.com/product/1201)
+- [Short Flex Sensors](https://www.adafruit.com/product/1070)
+- 10k Ω Resistors
+- 50k Ω Resistors
+- AAA Batteries
+- Velcro straps
 - Protoboard
 - Cardboard
 - Wires
@@ -129,11 +133,13 @@ void loop()
 
 ## Demo
 
+Click [here](https://github.com/tknoepff/haptic-touch/tree/master/videos) for video demos
+
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-3.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-4.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-5.jpg)
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-6.jpg)
+
 
 ## Credits
 **Creator** • Thomas Knoepffler <br>
