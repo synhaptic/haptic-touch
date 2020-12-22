@@ -7,7 +7,7 @@
 **_Description_**
 <br>
 
-This is a prototype for a communication device that wraps around your wrist. A flex sensor is attached to the finger and a haptic motor can be placed anywhere the user chooses. As one person flexes their finger (on their device), the haptic motor on the other person’s end (the other device) vibrates and vice versa. With a Photon microcontroller mounted on a soldered protoboard, the device utilizes Wi-Fi capabilities to communicate with one another through TCP connection. 
+This is a prototype for a communication device that wraps around your wrist. A flex sensor is attached to the finger and a haptic motor can be placed anywhere the user chooses. As one person flexes their finger (on their device), the haptic motor on the other person’s end (the other device) vibrates and vice versa. With a Photon microcontroller mounted on a soldered protoboard, the device utilizes Wi-Fi capabilities to communicate with one another through [TCP connection](https://www.digikey.com/en/maker/blogs/2019/how-to-get-two-photons-to-talk). 
 
 This prototype explores forms of communication via embodied technology. Like any medium, the wearable acts as an extension of the user. The device becomes a part of the user’s body so as to embody ethereal data, the packets of information that are being transferred on the network. The wearable device was specifically designed with haptic feedback to provide a feeling for the world outside of oneself. The wearable is the media technology that allows the user to transfer haptic messages to their partner. Their partner, in turn, recognizes the messages sent by transmitting their own touch.
 
@@ -42,7 +42,7 @@ int flexPin = A5;
 int value;
 
 TCPClient client;                         
-byte server_ip[] = {10,23,10,60};           
+byte server_ip[] = {0,0,0,0};           
 byte dataBuffer[32];                       
  
 
@@ -92,7 +92,7 @@ int flexPin = A5;
 int value;
 
 TCPClient client;                           
-byte server_ip[] = {10,23,10,60};           
+byte server_ip[] = {0,0,0,0};           
 byte dataBuffer[32];                  
  
 
