@@ -135,8 +135,8 @@ void loop()
 
 Click [here](https://github.com/tknoepff/haptic-touch/tree/master/videos) for video demos
 
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-3.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-4.jpg)
 ![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-5.jpg)
 
