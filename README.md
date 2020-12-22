@@ -1,6 +1,6 @@
 # Haptic Touch
 
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-2.jpg)
 <br>
 <br>
 
@@ -24,10 +24,9 @@ This prototype explores forms of communication via embodied technology. Like any
 
 ## Technical Drawings
 
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/process%20images/process-1.jpg)
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/process%20images/process-2.jpg)
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/process%20images/process-3.jpg)
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/process%20images/process-4.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/technical%20sketches/schematic.png)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/technical%20sketches/board.png)
+
 
 
 ## Code Snippets
@@ -130,8 +129,11 @@ void loop()
 
 ## Demo
 
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/demo%20images/demo-1.jpg)
-![Img](https://github.com/tknoepff/nipple-buttons/blob/master/demo%20images/demo-2.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-3.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-4.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-5.jpg)
+![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-6.jpg)
 
 ## Credits
 **Creator** • Thomas Knoepffler <br>
