@@ -1,6 +1,6 @@
 # Haptic Touch
 
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-2.jpg)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/images/image-2.jpg)
 <br>
 <br>
 
@@ -28,8 +28,8 @@ This prototype explores forms of communication via embodied technology. Like any
 
 ## Technical Drawings
 
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/technical%20sketches/schematic.png)
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/technical%20sketches/board.png)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/technical%20sketches/schematic.png)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/technical%20sketches/board.png)
 
 
 
@@ -133,12 +133,12 @@ void loop()
 
 ## Demo
 
-Click [here](https://github.com/tknoepff/haptic-touch/tree/master/videos) for video demos
+Click [here](https://github.com/synhaptic/haptic-touch/tree/master/videos) for video demos
 
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-3.jpg)
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-1.jpg)
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-4.jpg)
-![Img](https://github.com/tknoepff/haptic-touch/blob/master/images/image-5.jpg)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/images/image-3.jpg)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/images/image-1.jpg)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/images/image-4.jpg)
+![Img](https://github.com/synhaptic/haptic-touch/blob/master/images/image-5.jpg)
 
 
 ## Credits
